@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a513rqe33o4bss6q/branch/main?svg=true)](https://ci.appveyor.com/project/sonik335/aplci-2jdpq/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/v73j8h7c9xwa2cmn?svg=true)](https://ci.appveyor.com/project/sonik335/aplcitestt-7xpdg)
